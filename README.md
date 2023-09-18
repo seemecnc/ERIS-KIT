@@ -14,3 +14,5 @@ The ERIS KIT does not include a control board.  The controller and any other ele
 
 Team SeeMeCNC (:
 
+Open Source
+
